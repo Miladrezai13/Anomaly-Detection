@@ -78,9 +78,6 @@ The optional evaluation saves image AUROC, recall, false-positive rate, error co
 
 ## GitHub and hosting
 
-This repository contains the code and notebook. Dataset images, trained models, temporary working data, and virtual environments are excluded by `.gitignore`. Notebook outputs are cleared before publishing.
-
-GitHub does not host this Python app through GitHub Pages. A hosted demo is planned for Hugging Face Spaces; deployment configuration and a model download will be added when it is ready.
 
 ## References
 
