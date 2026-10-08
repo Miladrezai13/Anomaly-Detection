@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+models/
+data/
+runs/
+*.pt
+*.partial
+.ipynb_checkpoints/
+mvtec_anomaly_detection/
+mvtec_work/
+.DS_Store
+*.zip
+*.tar
+*.tar.gz
+*.tar.xz
